@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about :  **Latest Technology**
 - 📫 How to reach me :  **latheshkumar06@gmail.com**
 - 📄 Know about my experiences :  [Resume](https://drive.google.com/file/d/1J2ISW34BYyMe6-ASVCDSCPtHOENEt5ad/view?usp=sharing)
-- 👨‍💻 All of my projects are available at :  [Projects](https://github.com/latheshkumarsr/Projects/)
+- 👨‍💻 All of my projects are available at :  [Projects](https://github.com/latheshkumarsr?tab=repositories)
 
 # My GitHub Profile
 
