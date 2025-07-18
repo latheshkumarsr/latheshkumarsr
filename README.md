@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - [![](https://img.shields.io/badge/-Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/user/f5afd672b3650f0783388276beb50404)
 - [![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/cb4aa377-fd2e-4833-8057-e5a53e807905)
 - [![](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/lathesh-kumar.db964343)
-- [![](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/lathesh_143)
+- [![](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/undefinedaura)
