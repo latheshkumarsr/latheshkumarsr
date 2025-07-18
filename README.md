@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 ## Certifications
 
-[![Certified Data Scientist](https://img.shields.io/badge/Certified%20Data%20Scientist-DataCamp-brightgreen)](https://www.datacamp.com/)
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-orange)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-blue)](https://cloud.google.com/certification/cloud-architect)
+[![CodeChef](https://img.shields.io/badge/Certified%20Data%20Scientist-DataCamp-red)](https://www.codechef.com/users/lathesh_143)
+[![Coursera](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-orange)](https://www.coursera.org/user/f5afd672b3650f0783388276beb50404)
+[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-blue)](https://www.cloudskillsboost.google/public_profiles/cb4aa377-fd2e-4833-8057-e5a53e807905)
+[![Credly](https://img.shields.io/badge/Certified%20Data%20Scientist-DataCamp-green)](https://www.credly.com/users/lathesh-kumar.db964343)
+[![LeetCode](https://img.shields.io/badge/Certified%20Data%20Scientist-DataCamp-blue)](https://leetcode.com/4al23ai400)
 
