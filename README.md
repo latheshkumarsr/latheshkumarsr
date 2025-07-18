@@ -18,24 +18,16 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences :  [Resume](https://drive.google.com/file/d/1J2ISW34BYyMe6-ASVCDSCPtHOENEt5ad/view?usp=sharing)
 - 👨‍💻 All of my projects are available at :  [Projects](https://github.com/latheshkumarsr?tab=repositories)
 
-# My GitHub Profile
-
-![GitHub followers](https://img.shields.io/github/followers/latheshkumarsr?style=social)
-![GitHub stars](https://img.shields.io/github/stars/latheshkumarsr?style=social)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Badges
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=latheshkumarsr&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/React-17.0.2-61DAFB.svg)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green.svg)](https://nodejs.org/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=latheshkumarsr&show_icons=true&theme=transparent)
 ## Certifications
 
-- [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/4al23ai400)
-- [![](https://img.shields.io/badge/-Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/user/f5afd672b3650f0783388276beb50404)
-- [![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/cb4aa377-fd2e-4833-8057-e5a53e807905)
-- [![](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/lathesh-kumar.db964343)
-- [![](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/undefinedaura)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/4al23ai400)
+[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/user/f5afd672b3650f0783388276beb50404)
+[![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/cb4aa377-fd2e-4833-8057-e5a53e807905)
+[![](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/lathesh-kumar.db964343)
+[![](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/undefinedaura)
