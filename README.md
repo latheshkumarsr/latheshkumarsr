@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 
 ## Certifications
 
-[![CodeChef](https://img.shields.io/badge/Certified%20Data%20Scientist-DataCamp-red)](https://www.codechef.com/users/lathesh_143)
-[![Coursera](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Associate-orange)](https://www.coursera.org/user/f5afd672b3650f0783388276beb50404)
-[![Google Cloud Certified](https://img.shields.io/badge/Google%20Cloud%20Certified-Professional%20Cloud%20Architect-blue)](https://www.cloudskillsboost.google/public_profiles/cb4aa377-fd2e-4833-8057-e5a53e807905)
-[![Credly](https://img.shields.io/badge/Certified%20Data%20Scientist-DataCamp-green)](https://www.credly.com/users/lathesh-kumar.db964343)
-[![LeetCode](https://img.shields.io/badge/Certified%20Data%20Scientist-DataCamp-blue)](https://leetcode.com/4al23ai400)
-
+- [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/4al23ai400)
+- [![](https://img.shields.io/badge/-Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/user/f5afd672b3650f0783388276beb50404)
+- [![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/cb4aa377-fd2e-4833-8057-e5a53e807905)
+- [![](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/lathesh-kumar.db964343)
+- [![](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/lathesh_143)
