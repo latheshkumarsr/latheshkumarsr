@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Lathesh kumar
+## Hi 👋, I'm Lathesh kumar
 ### LinkedIn
 <p align="left">
   <a href="https://www.linkedin.com/in/latheshkumarsr" target="_blank">
