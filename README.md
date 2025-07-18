@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...[ NLP, DL, Projects ](https://github.com/latheshkumarsr)
+- 🔭 I’m currently working on ...[Research](https://xda.com)
 - 🌱 I’m currently learning ...**Advance concept of NLP,DL**
 - 🎓I'm currently studying in **Alvas institute of engineering and technology, Mangalore**
 - 👯 I’m looking to collaborate on ...**Embedded_Projects**
