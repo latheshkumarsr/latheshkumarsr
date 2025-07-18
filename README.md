@@ -1,6 +1,4 @@
 ## Hi there 👋, I'm Lathesh kumar
-
-**latheshkumarsr/latheshkumarsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="center">I'm a student, AI & ML Engineer👩🏻‍💻!!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithun162001&label=Profile%20views&color=0e75b6&style=flat" alt="latheshkumarsr" /> </p>
 
