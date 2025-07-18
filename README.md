@@ -1,7 +1,11 @@
 ## Hi there 👋, I'm Lathesh kumar
-<h3 align="center">I'm a student, AI & ML Engineer👩🏻‍💻!!!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=latheshkumarsr"&label=Profile%20views&color=0e75b6&style=flat" alt="latheshkumarsr" /> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/latheshkumarsr" target="blank"><img src="https://img.shields.io/twitter/follow/latheshkumarsr?logo=twitter&style=for-the-badge" alt="latheshkumarsr" /></a> </p>
+### LinkedIn
+<p align="left">
+  <a href="https://www.linkedin.com/in/latheshkumarsr" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-2867B2?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=latheshkumarsr&label=Profile%20views&color=2867B2&style=flat" alt="LinkedIn Profile Views" />
+</p>
 
 Here are some ideas to get you started:
 
