@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on :  [New site shorty to launch🚀](https://github.com/latheshkumarsr/auto-annotated-portfolio)
+- 🔭 I’m currently working on :  [New site shorty to launch🚀](https://crimepreditai.netlify.app/)
 - 🌱 I’m currently learning :  **Neural_Networks**
 - 🎓I'm currently studying in :  **Alvas institute of engineering and technology, Mangalore**
 - 👯 I’m looking to collaborate on :  **Embedded & IOT Projects**
